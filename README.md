@@ -1,0 +1,1 @@
+Esse repositório é responsável pelo armazenamento de arquivos elaborados na Fábrica.
