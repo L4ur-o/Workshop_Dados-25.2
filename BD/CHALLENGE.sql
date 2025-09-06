@@ -42,8 +42,8 @@ INSERT INTO Pedidos VALUES
 
 -- ATT de dados da coluna Cliente
 UPDATE Clientes
-SET email = 'ana.souza2025@email.com'
-WHERE id_cliente = 1;
+SET email = 'ruskaver@gmail.com'
+WHERE id_cliente = 3;
 
 -- Faz a procura e exibe todos os dados da tabela Clientes
 SELECT *
